@@ -1,10 +1,11 @@
 # Linea-del-tiempo-Olas-del-feminismo
 Una linea del tiempo hacerca de las diferentes olas de feminimo. Todo explicado desde una forma sensilla y para principiantes  
-![This is an alt text.](/image/sample.webp "This is a sample image.")
+![una pequeña preview](https://github.com/hatsisanchez/Linea-del-tiempo-Olas-del-feminismo/assets/159935741/f93e5ed6-c2ef-47ca-8576-8b986be2f43e)
 
 1. Descripción del proyecto  
 
  
+<img width="885" alt="Captura de pantalla 2024-02-22 135747" src="https://github.com/hatsisanchez/Linea-del-tiempo-Olas-del-feminismo/assets/159935741/f93e5ed6-c2ef-47ca-8576-8b986be2f43e">
 
    - Definir el alcance, los objetivos, las preguntas de investigación del proyecto, el público al que va dirigido. 
 
