@@ -1,6 +1,6 @@
 # Linea-del-tiempo-Olas-del-feminismo
 Una linea del tiempo hacerca de las diferentes olas de feminimo. Todo explicado desde una forma sensilla y para principiantes  
-![This is an alt text.](alt="Captura de pantalla 2024-02-22 135747" src="https://github.com/hatsisanchez/Linea-del-tiempo-Olas-del-feminismo/assets/159935741/84cf090c-6392-4942-bf9a-4837845cf843">)<img width="885" 
+![This is an alt text.](/image/sample.webp "This is a sample image.")
 
 1. Descripción del proyecto  
 
